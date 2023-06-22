@@ -1,0 +1,1 @@
+# 12.2_K8S_base_Aleksander_Molokov
