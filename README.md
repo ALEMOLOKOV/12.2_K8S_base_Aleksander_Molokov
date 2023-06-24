@@ -29,7 +29,7 @@
 
 ![2 1 pod netology-web](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/140f0045-97a9-414d-989c-eb490a74774b)
 
-2. Service netology-svc ![Манифест]()
+2. Service netology-svc ![Манифест](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/blob/ff9774ac82710ab5dd79acef3e147ed6557ae0ef/service%20netology-svc.yaml)
 
 ![2 2 svc netology-svc](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/ecda4af6-d43c-48dc-99bf-ba4144002959)
 
