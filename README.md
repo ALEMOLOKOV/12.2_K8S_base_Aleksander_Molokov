@@ -8,7 +8,7 @@
 
 ## Ответ
 
-1. Манифест Pod - ![Манифест](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/blob/9c40094eba0a20e7ab51afa08e33168a88248e45/1_pod_hello_world.yaml)
+1. Манифест Pod hello-world - ![Манифест](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/blob/9c40094eba0a20e7ab51afa08e33168a88248e45/1_pod_hello_world.yaml)
 
 2. Подключение к Pod
    
@@ -24,6 +24,26 @@
 4. Подключиться локально к Service с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
 
 ## Ответ
+
+1. Pod netology-web ![Манифест]()
+
+![2 1 pod netology-web](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/140f0045-97a9-414d-989c-eb490a74774b)
+
+2. Service netology-svc ![Манифест]()
+
+![2 2 svc netology-svc](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/ecda4af6-d43c-48dc-99bf-ba4144002959)
+
+Проверка подключения к Pod netology-web
+
+![2 3 Привязка сервиса к pod](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/3630d339-c2ae-4c45-962b-34de03ae2a43)
+
+3. Подключение к Service netology-svc с помощью port-forward
+![curl localhost30080](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/6b833cea-e7be-40af-88d2-e4619c2cac80)
+
+
+
+
+   
 
 
 
