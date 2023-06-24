@@ -25,7 +25,7 @@
 
 ## Ответ
 
-1. Pod netology-web ![Манифест]()
+1. Pod netology-web ![Манифест](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/blob/1cb7d650cc7afd3508ad65d5d52fab23be25ea94/pod%20netology-web.yaml)
 
 ![2 1 pod netology-web](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/140f0045-97a9-414d-989c-eb490a74774b)
 
