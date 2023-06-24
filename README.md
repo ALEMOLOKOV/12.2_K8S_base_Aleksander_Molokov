@@ -8,6 +8,12 @@
 
 ## Ответ
 
+1. Манифест Pod - ![Манифест](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/blob/9c40094eba0a20e7ab51afa08e33168a88248e45/1_pod_hello_world.yaml)
+
+2. Подключение к Pod
+   
+![1 1 curl pod](https://github.com/ALEMOLOKOV/12.2_K8S_base_Aleksander_Molokov/assets/109212419/bb07dbcc-1313-49ac-a481-0b37e61bc303)
+
 ------
 
 ### Задание 2. Создать Service и подключить его к Pod
@@ -18,4 +24,6 @@
 4. Подключиться локально к Service с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
 
 ## Ответ
+
+
 
